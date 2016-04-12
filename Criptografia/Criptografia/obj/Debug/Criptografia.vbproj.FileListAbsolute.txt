@@ -1,0 +1,10 @@
+c:\users\luis\documents\visual studio 2013\Projects\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+c:\users\luis\documents\visual studio 2013\Projects\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+c:\users\luis\documents\visual studio 2013\Projects\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+c:\users\luis\documents\visual studio 2013\Projects\Criptografia\Criptografia\bin\Debug\Criptografia.xml
+c:\users\luis\documents\visual studio 2013\Projects\Criptografia\Criptografia\obj\Debug\Criptografia.Form1.resources
+c:\users\luis\documents\visual studio 2013\Projects\Criptografia\Criptografia\obj\Debug\Criptografia.Resources.resources
+c:\users\luis\documents\visual studio 2013\Projects\Criptografia\Criptografia\obj\Debug\Criptografia.vbproj.GenerateResource.Cache
+c:\users\luis\documents\visual studio 2013\Projects\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+c:\users\luis\documents\visual studio 2013\Projects\Criptografia\Criptografia\obj\Debug\Criptografia.xml
+c:\users\luis\documents\visual studio 2013\Projects\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
